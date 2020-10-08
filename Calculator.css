@@ -4,7 +4,7 @@ body {
     margin-top: 5px;
     background-image: url(https://image-gr.s3.envato.com/files/86232890/Calculator%20a%20background590.jpg);
     background-position: top;
-    zoom: 2;
+    zoom: 1.5;
 }
 
 
@@ -22,9 +22,9 @@ h2 {
 }
 
 .operator {
-    width: 35px;
-    height: 35px;
-    font-size: 12px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
     background-color: red;
     color: white;
     border: none;
@@ -34,9 +34,9 @@ h2 {
 }
 
 .equal {
-    width: 35px;
-    height: 35px;
-    font-size: 12px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
     background-color: black;
     color: white;
     border: none;
@@ -46,9 +46,9 @@ h2 {
 }
 
 .input {
-    width: 35px;
-    height: 35px;
-    font-size: 12px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
     background-color: gray;
     color: white;
     border: none;
@@ -59,7 +59,8 @@ h2 {
 
 .tfsize {
     background-color: lightgray;
-    width: 225px;
+    width: 265px;
+    height: 30px;
     font-size: 18px;
     border: solid black 2px;
     border-radius: 15px 15px 15px 15px;
