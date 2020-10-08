@@ -22,8 +22,8 @@ h2 {
 }
 
 .operator {
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
     font-size: 16px;
     background-color: red;
     color: white;
@@ -34,8 +34,8 @@ h2 {
 }
 
 .equal {
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
     font-size: 16px;
     background-color: black;
     color: white;
@@ -46,8 +46,8 @@ h2 {
 }
 
 .input {
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
     font-size: 16px;
     background-color: gray;
     color: white;
@@ -59,7 +59,7 @@ h2 {
 
 .tfsize {
     background-color: lightgray;
-    width: 265px;
+    width: 245px;
     height: 30px;
     font-size: 18px;
     border: solid black 2px;
