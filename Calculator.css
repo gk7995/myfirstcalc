@@ -1,0 +1,72 @@
+body {
+    align-content: center;
+    text-align: center;
+    margin-top: 40px;
+    background-image: url(https://image-gr.s3.envato.com/files/86232890/Calculator%20a%20background590.jpg);
+    background-position: top;
+    zoom: 2;
+}
+
+
+/* https://image-gr.s3.envato.com/files/86232890/Calculator%20a%20background590.jpg */
+
+
+/* http://st.depositphotos.com/1000840/3199/i/950/depositphotos_31994907-Calculator-button-background.jpg */
+
+
+/* https://i.ytimg.com/vi/d-zKJCKsoWw/maxresdefault.jpg */
+
+h2 {
+    background-color: red;
+    color: aqua;
+}
+
+.operator {
+    width: 40px;
+    height: 40px;
+    padding: 6px;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 40%;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.equal {
+    width: 40px;
+    height: 40px;
+    padding: 6px;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 35%;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.input {
+    width: 40px;
+    height: 40px;
+    padding: 6px;
+    font-size: 16px;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.tfsize {
+    background-color: lightgray;
+    width: 285px;
+    font-size: 18px;
+    border: solid black 2px;
+    border-radius: 15px 15px 15px 15px;
+    cursor: se-resize;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
